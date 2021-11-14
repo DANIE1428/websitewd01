@@ -1,0 +1,259 @@
+body {
+    background-color: #89B5AF;
+    font-family: 'Crete Round', serif;
+    font-size: 20px;
+}
+
+
+/* SUBTITLE START */
+
+.subtitle1 h1 {
+    text-align: center;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 30px;
+    margin-top: 200px;
+}
+
+.subtitle2 h1 {
+    text-align: center;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+    margin-top: 25px;
+}
+
+.subtitle3 h3 {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 680px;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+    width: 50%;
+}
+
+.subtitle4 h3 {
+    position: absolute;
+    margin-top: 575px;
+    margin-left: 1000px;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 30px;
+}
+
+.subtitle5 h3 {
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 1000px;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 30px;
+}
+
+.subtitle6 h3 {
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 275px;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+}
+
+.subtitle7 h3 {
+    position: absolute;
+    margin-top: -0px;
+    margin-left: 275px;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+    margin-right: ;
+}
+
+.subtitle8 p {
+    text-align: center;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+}
+
+.subtitle9 p,
+h2,
+h3 {
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+}
+
+
+/* SUBTITLE END */
+
+
+/* IMAGE START */
+
+.profileimg {
+    width: 180px;
+    height: 180px;
+}
+
+.birdimg {
+    width: 50px;
+    height: 48;
+}
+
+.mountainimg1 {
+    width: 150px;
+    height: 200px;
+}
+
+.mountainimg2 {
+    width: 150px;
+    height: 125px;
+}
+
+.codingimg {
+    width: 200px;
+    height: 150px;
+}
+
+.proglangimg {
+    width: 200px;
+    height: 150px;
+}
+
+.webdesigimg {
+    width: 200px;
+    height: 150px;
+}
+
+
+/* IMAGE END */
+
+
+/* TOP */
+
+.top-airplane {
+    position: absolute;
+    margin-top: 75px;
+    margin-bottom: 300px;
+    margin-left: 825px;
+}
+
+.top-sun {
+    position: absolute;
+    margin-top: 75px;
+    margin-bottom: 300px;
+    margin-left: 700px;
+}
+
+.top-bird {
+    position: absolute;
+    margin-top: 250px;
+    margin-bottom: 500px;
+    margin-left: 750px;
+}
+
+.top-mountain2 {
+    position: absolute;
+    margin-top: 75px;
+    margin-bottom: 300px;
+    margin-left: 680px;
+}
+
+.top-mountain1 {
+    position: absolute;
+    margin-top: 230px;
+    margin-bottom: 500px;
+    margin-left: 680px;
+}
+
+.top-cloud-1 {
+    position: absolute;
+    margin-top: 125px;
+    margin-bottom: 275px;
+    margin-left: 1100px;
+}
+
+.top-cloud-2 {
+    position: absolute;
+    margin-top: 79px;
+    margin-bottom: 275px;
+    margin-left: 900px;
+}
+
+
+/* TOP END */
+
+
+/* MID START */
+
+.mid-profile {
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 400px;
+    width: 50%;
+}
+
+
+/* MID END */
+
+
+/* BOTTOM START */
+
+.skill-row-1 {
+    position: absolute;
+    margin-top: 950px;
+    margin-left: 400px;
+    width: 50%;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+}
+
+.skill-row-2 {
+    position: absolute;
+    margin-top: 1200px;
+    margin-left: 400px;
+    width: 50%;
+    color: #E6DDC4;
+    font-family: 'Crete Round', serif;
+    font-size: 19px;
+}
+
+.bottom-web {
+    position: absolute;
+    margin-top: 1150px;
+    margin-left: 75%;
+}
+
+.bottom-lang {
+    position: absolute;
+    margin-top: 1400px;
+    margin-left: 50%;
+}
+
+
+/* BOTTOM END */
+
+.footer {
+    position: absolute;
+    left: 0;
+    margin-top: 1500px;
+    width: 100%;
+    padding: 100px;
+    background-color: #678983;
+    text-align: center;
+}
+
+.contact-me {
+    padding: 10;
+    position: center;
+    margin-top: 1450px;
+    margin-left: 960px;
+}
+
+.button {
+    text-decoration: none;
+    background: #678983;
+    padding: 1% 4%;
+}

@@ -1,0 +1,157 @@
+body {
+    background-color: #A2D2FF;
+    font-family: 'Poly', serif;
+    font-size: 20px;
+}
+
+.top-container {
+    text-align: center;
+    font-family: 'Poly', serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #3D0000;
+    padding: 5% 0;
+}
+
+.profile {
+    width: 20%;
+    height: 20%;
+}
+
+.web {
+    width: 20%;
+    height: 20%;
+}
+
+.moon {
+    width: 10%;
+    height: 3%;
+}
+
+.code {
+    width: 20%;
+    height: 20%;
+}
+
+.skills {
+    width: 8%;
+    height: 8%;
+}
+
+.programmerskill {
+    width: 50%;
+    height: 50%
+}
+
+.web-design {
+    width: 50%;
+    height: 50%
+}
+
+.webpos {
+    position: absolute;
+    margin-left: 900px;
+}
+
+.codepos {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 250px;
+}
+
+.moonpos {
+    position: absolute;
+    margin-left: 250px;
+}
+
+.skillimgpos {
+    position: absolute;
+    margin-top: -100;
+    margin-left: 5%;
+}
+
+.skillpos1 {
+    position: absolute;
+    margin-left: 5%;
+}
+
+.skillpos2 {
+    position: absolute;
+    margin-left: 68%;
+}
+
+.subtitle1 {
+    text-align: center;
+    font-family: 'Poly', serif;
+    font-size: 20px;
+    color: #3D0000;
+    width: 40%;
+    margin: auto;
+    padding: 5%;
+}
+
+.middle-container {
+    text-align: center;
+    font-family: 'Poly', serif;
+    font-size: 25px;
+    text-decoration: none;
+    color: #3D0000;
+    padding: 10% 0;
+}
+
+.subtitle2 h3 {
+    text-align: center;
+    font-family: 'Poly', serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: #3D0000;
+    padding: 10% 0;
+}
+
+.bottom-container {
+    text-align: center;
+    font-family: 'Poly', serif;
+    font-size: 25px;
+    text-decoration: none;
+    color: #3D0000;
+    padding: 10% 0;
+}
+
+.skill-row1 h3,
+p {
+    text-align: center;
+    font-family: 'Poly', serif;
+    text-decoration: none;
+    color: #3D0000;
+}
+
+.skill-row2 h3,
+p {
+    text-align: center;
+    font-family: 'Poly', serif;
+    text-decoration: none;
+    color: #3D0000;
+}
+
+.contact-me {
+    text-align: center;
+    font-family: 'Poly', serif;
+    font-size: 20px;
+    color: #3D0000;
+}
+
+.social-icons {
+    width: 50px;
+    height: 50px;
+    padding: 0px 2px;
+}
+
+footer {
+    text-align: center;
+    padding: 100px 100px;
+    background-color: #181D31;
+    color: white;
+}
+
+
+}
